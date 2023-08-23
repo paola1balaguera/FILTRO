@@ -1,0 +1,12 @@
+{
+    "manuales": {
+        "author": "PAOLA",
+        "paginas": 12,
+        "temas": [
+            {
+                "Titulo": "A",
+                "Clasificaci\u00f3n": 2
+            }
+        ]
+    }
+}
